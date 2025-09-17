@@ -85,4 +85,6 @@ Contributions are welcome! Ideas include:
 
 ---
 
+![alt text](https://github.com/NaffyA/Interactive-Diamond-Model-of-Intrusion-Analysis/blob/c274c2544b54c786da1fbbcd06883c3e3dd1a9ad/Sample%2001.png) 
+
 **This project bridges the gap between academic exercises (Excel) and practical, interactive analysis for real-world CTI workflows.**
